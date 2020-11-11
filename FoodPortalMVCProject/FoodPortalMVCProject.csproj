@@ -195,6 +195,12 @@
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
+    <Content Include="Images\ChickenTikka.jpg" />
+    <Content Include="Images\doughnut-ice-cream-5-500x500.jpg" />
+    <Content Include="Images\EggFriedRice.jpg" />
+    <Content Include="Images\gulab-jamuns.jpg" />
+    <Content Include="Images\mutton-pulao.jpg" />
+    <Content Include="Images\rolls.png" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
